@@ -1,0 +1,7 @@
+﻿  MyForm.cpp
+c:\users\usuario\documents\visual studio 2015\projects\tf_201916220_201816393\tf_201916220_201816393\MyForm.h(511): warning C4101: 'guardvida': variable local sin referencia
+c:\users\usuario\documents\visual studio 2015\projects\tf_201916220_201816393\tf_201916220_201816393\MyForm.h(511): warning C4101: 'restarv': variable local sin referencia
+  .NETFramework,Version=v4.5.2.AssemblyAttributes.cpp
+  Bala.obj : /DEBUG:FASTLINK no se admite cuando hay presente código administrado; reiniciando vínculo con /DEBUG:FULL
+  TF_201916220_201816393.vcxproj -> C:\Users\usuario\Documents\Visual Studio 2015\Projects\TF_201916220_201816393\Debug\TF_201916220_201816393.exe
+  TF_201916220_201816393.vcxproj -> C:\Users\usuario\Documents\Visual Studio 2015\Projects\TF_201916220_201816393\Debug\TF_201916220_201816393.pdb (Partial PDB)

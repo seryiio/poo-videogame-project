@@ -1,0 +1,4 @@
+C:\Users\sergi\source\repos\TF_201916220_201816393\TF_201916220_201816393\x64\Debug\TF_201916220_201816393.vcxproj.AssemblyReference.cache
+C:\Users\sergi\source\repos\TF_201916220_201816393\TF_201916220_201816393\x64\Debug\TF_201916220_201816393.MyForm.resources
+C:\Users\sergi\source\repos\TF_201916220_201816393\TF_201916220_201816393\x64\Debug\TF_201916220_201816393.vcxproj.GenerateResource.cache
+C:\Users\sergi\source\repos\TF_201916220_201816393\TF_201916220_201816393\x64\Debug\TF_201916220_201816393.vcxproj.SuggestedBindingRedirects.cache
